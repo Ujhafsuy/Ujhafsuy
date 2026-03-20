@@ -5,7 +5,8 @@
 "Life is not just about passing on your genes.<br>
 We can leave behind much more than just DNA." ~ Solid Snake
 <p>
-_____________________________
+
+__________
 
 <div style="display: flex; align-items:center; justify-content:center">
     <img src="ippo.gif" />
