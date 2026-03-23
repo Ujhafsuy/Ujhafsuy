@@ -8,9 +8,9 @@ We can leave behind much more than just DNA." ~ Solid Snake
 
 __________
 
-<div style="display: flex; align-items:center; justify-content:center">
+<p align="center">
     <img src="ippo.gif" />
-</div>
+</p>
 
 _______________
 
@@ -40,7 +40,7 @@ _______________________
 
 ### Connect with me
 
-<div style="display:flex; align-items: center; justify-content: center">
+<div align="center">
     <a href="https://www.linkedin.com/in/eduardo-cerqueira-bezerra-139748239/" alt="LinkedIn">
         <img src="LI-In-Bug.png" style="width: 4rem" />
     </a>
